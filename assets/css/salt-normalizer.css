@@ -1,6 +1,4 @@
----
----
-@import "{{ site.theme }}";
+
 body {
   font-family: var(--salt-typography-fontFamily);
   background: var(--salt-color-background);
