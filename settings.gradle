@@ -1,0 +1,11 @@
+pluginManagement {
+    includeBuild('../grimoire')  // adjust path to sibling folder
+
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+        mavenLocal()
+    }
+}
+
+rootProject.name = 'xgeoff'
