@@ -3,13 +3,13 @@ layout = "default"
 title = "xgeoff personal website"
 ---
 
-
+{{open "div" class="callout warning"}}
 ## **XGeoff**
 
 *Technologist, Storyteller, Explorer of Systems—both real and imagined.*
 
 ---
-
+{{close "div"}}
 ### 👋 **Call me Jefe, GP or just G.**
 
 I’ve spent my life navigating the edges where technology, creativity, and curiosity meet. I’m a **software architect** and **tech leader** with a love for building elegant systems. Not just software systems, but narrative systems, artistic systems, human systems. The kind that shape how we interact with each other—and with the future.
