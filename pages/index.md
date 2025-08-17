@@ -1,7 +1,8 @@
 ---
-layout: default
-title: xgeoff personal website
+layout = "default"
+title = "xgeoff personal website"
 ---
+
 
 ## **XGeoff**
 
