@@ -1,4 +1,4 @@
-title = "Grimoire Site"
+title = "Jefe"
 baseUrl = "/"
 outputDir = "docs"
-sourceDir = "."
+sourceDir = "site"
