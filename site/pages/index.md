@@ -7,7 +7,6 @@ title = "xgeoff personal website"
 
 *Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
 
----
 
 ### 👋 **Call me Jefe**
 
@@ -21,7 +20,6 @@ I still code, because I love it. I write stories that stretch across galaxies an
 
 This page isn’t a pitch. It’s a handshake. A hello. If you're here, maybe you’re curious too.
 
----
 
 ### 🛠️ **Things I Build**
 
@@ -30,7 +28,6 @@ This page isn’t a pitch. It’s a handshake. A hello. If you're here, maybe yo
 * **Startups** – Helped launch and scale several early-stage companies
 * **AI Experiments** – Explored what happens when code learns to imagine
 
----
 
 ### ✍️ **Things I Write**
 
@@ -43,7 +40,6 @@ This page isn’t a pitch. It’s a handshake. A hello. If you're here, maybe yo
 * **Software as Narrative**
   Code is language. Language is pattern. I write systems that tell stories, and stories that explore systems.
 
----
 
 ### 🎨 **Things I See**
 
@@ -51,7 +47,6 @@ This page isn’t a pitch. It’s a handshake. A hello. If you're here, maybe yo
 * **Digital Art** – AI-generated scenes of quiet futures and impossible histories
 * **Design** – Interfaces that don’t just work—but *feel* right
 
----
 
 ### 🌍 **Where I’ve Been**
 
@@ -64,13 +59,11 @@ What I carry with me:
 * The traveler’s instinct to listen before speaking
 * The writer’s belief that every system tells a story
 
----
 
 ### 🧭 **What Drives Me**
 
 Curiosity. Craft. Connection. Whether it’s code, a photograph, or a short story, I’m after that moment when everything just clicks. When structure meets soul.
 
----
 
 ### 📡 **Connections**
 
