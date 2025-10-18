@@ -3,25 +3,29 @@ layout = "default"
 title = "xgeoff personal website"
 ---
 
-## **XGeoff**
+## **Jefe**
 
 *Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
 
 
-### 👋 **Call me Jefe**
+I’m an experienced software architect, developer, and technologist with more than two decades of building and guiding software systems. Over the years, I’ve had the chance to work across industries and teams, solving tough technical problems and helping shape systems that are built to last. My focus has always been on making technology practical and scalable, and on creating an environment where good ideas can turn into real results.
 
-I’ve spent my life navigating the edges where technology, creativity, and curiosity meet. I’m a **software architect** and **tech leader** with a love for building elegant systems. Not just software systems, but narrative systems, artistic systems, human systems. The kind that shape how we interact with each other—and with the future.
+Beyond my professional life, I’ve always been curious about the world. I enjoy traveling and experiencing different cultures, especially through food and the small details that make each place unique. That sense of exploration carries over into my creative side as well. I spend time writing and experimenting with AI-assisted art, not because I’m chasing mastery but because I enjoy the process of discovering new ways to express ideas.
 
-You could say I have a **360° view of software**: I’ve been the guy fixing production bugs at 2 a.m., the one leading teams through architectural overhauls, and the person in the room when early startups decide what to build first. I’ve worked in tech support, product strategy, engineering, and executive leadership. It gives me perspective. And empathy.
+At the heart of it, I see myself as someone who likes to build — whether it’s software, stories, or memories from time spent in new places.
 
-But I’ve never stopped making things with my own hands.
 
-I still code, because I love it. I write stories that stretch across galaxies and timelines. I generate digital art using AI tools, sometimes to explore world-building ideas, sometimes just because it feels right. I take photos on long walks—of moments, patterns, and the stillness in between. I’ve spent years on the road, from Tokyo to Lisbon to little towns with names you forget but memories you don’t.
+
+I’ve spent my career in a variety of different roles related to various aspects of software development. I like to say I have a **360° view of what it takes to design, develop, and deliver quality software at scale**. Currently I’m a **software architect** and **tech leader** with a love for building elegant systems.
+
+I still code, because I enjoy it and because I have a passion for the details when it comes to software. 
+
+My personal pursuits and interests include science fiction, AI Art and travel. I am working on some stories in the Star Wars and Warhammer 40k universes. I use Midjourney to generate digital art, and it has expanded and given form to my imagination in a way I previously would have never thought possible. I take photos on long walks—of moments, patterns, and the stillness in between. I’ve spent years on the road, from Tokyo to Lisbon to little towns with names you forget but memories you don’t.
 
 This page isn’t a pitch. It’s a handshake. A hello. If you're here, maybe you’re curious too.
 
 
-### 🛠️ **Things I Build**
+### 🛠️ **Projects**
 
 * **Platforms & Tools** – Architected backend systems and API gateways used by millions
 * **Developer Runtimes** – Built interpreters and compilers, just for the love of it

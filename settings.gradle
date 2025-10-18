@@ -1,5 +1,5 @@
 pluginManagement {
-    includeBuild('../grimoire')  // adjust path to sibling folder
+    includeBuild('grimoire')  // use vendored plugin
 
     repositories {
         gradlePluginPortal()
