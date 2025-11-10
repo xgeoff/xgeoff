@@ -1,6 +1,5 @@
 pluginManagement {
-    includeBuild('grimoire')  // use vendored plugin
-
+    includeBuild('../grimoire')
     repositories {
         gradlePluginPortal()
         mavenCentral()
