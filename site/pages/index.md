@@ -2,7 +2,7 @@
 layout = "default"
 title = "xgeoff personal website"
 ---
-![XGeoff Logo](../images/xgeoff.png)
+![XGeoff Logo](./images/xgeoff.png)
 ## **X Geoff**
 
 *Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
@@ -69,19 +69,19 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
     <figcaption>Sunset in Santorini, Greece.</figcaption>
     </figure>
 <figure>
-    <img src="../images/photography/sam-slough-night-1.jpg" alt="Sammamish Slough at night">
+    <img src="./images/photography/sam-slough-night-1.jpg" alt="Sammamish Slough at night">
     <figcaption>Sammamish Slough at night, Washington.</figcaption>
     </figure>
 <figure>
-    <img src="../images/photography/sno-falls-1.jpg" alt="Snoqualmie Falls">
+    <img src="./images/photography/sno-falls-1.jpg" alt="Snoqualmie Falls">
     <figcaption>Snoqualmie Falls, Snoqualmie, WA</figcaption>
     </figure>
 <figure>
-    <img src="../images/photography/vancouver-sunset-1.jpg" alt="Vancouver Sunset">
+    <img src="./images/photography/vancouver-sunset-1.jpg" alt="Vancouver Sunset">
     <figcaption>Sunset over Vancouver, Canada.</figcaption>
     </figure>
 <figure>
-    <img src="../images/photography/waikiki-fireworks-1.jpg" alt="Waikiki Fireworks">
+    <img src="./images/photography/waikiki-fireworks-1.jpg" alt="Waikiki Fireworks">
     <figcaption>Fireworks over Waikiki Beach, Honolulu, Hawaii.</figcaption>
     </figure>
 </div>
