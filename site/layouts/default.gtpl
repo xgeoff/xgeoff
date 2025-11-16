@@ -24,7 +24,8 @@
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" href="images/favicon-32.png" sizes="32x32" type="image/png">
+
 
 </head>
 <body>

@@ -2,14 +2,12 @@
 layout = "default"
 title = "xgeoff personal website"
 ---
+![XGeoff Logo](../images/xgeoff.png)
 ## **X Geoff**
 
 *Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
-
 I’m a software architect, developer, and technologist with over two decades of experience designing and guiding complex software systems. I’ve worked across industries and teams, solving challenging technical problems and shaping systems built to last. My focus has always been on making technology practical and scalable, and on creating environments where good ideas turn into real results.
-
 Beyond work, I love exploring the world through travel, food, and photography. I also feed my creative side through reading science fiction, writing, and using AI-assisted art to bring ideas to life.
-
 At heart, I’m a creator — whether it’s software, stories, or memories from time spent in new places.
 
 ### **Projects**
@@ -36,15 +34,63 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 
 ### **Photography, Art and Design**
 
-* **Photography** – I chase texture, light, and symmetry in overlooked places
-* **Digital Art** – AI-generated scenes of quiet futures and impossible histories
-* **Design** – Interfaces that don’t just work—but *feel* right
+## Photography
+<div class="gallery">
+  <figure>
+    <img src="./images/photography/acropolis-lindos-1.jpg" alt="Lindos Acropolis">
+    <figcaption>Lindos Acropolis with the Aegean in the background.</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/photography/aurora-1.jpg" alt="Aurora Borealis">
+    <figcaption>Aurora Borealis over my house in Bothell, Washington.</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/photography/chania-night-1.jpg" alt="Chania waterfront">
+    <figcaption>Chania waterfront at night. Island of Crete in Greece.</figcaption>
+  </figure>
+  <figure>
+    <img src="./images/photography/coffee-shop-bangkok-1.jpg" alt="Bangkok coffee shop">
+    <figcaption>Cozy coffee shop in Bangkok, Thailand.</figcaption>
+    </figure>
+    <figure>
+    <img src="./images/photography/corn-maze-sno.jpg" alt="Snohomish Corn Maze">
+    <figcaption>Corn maze in Snohomish, Washington.</figcaption>
+    </figure>
+    <figure>
+    <img src="./images/photography/dahlias-tacoma-1.jpg" alt="Tacoma Dahlias">
+    <figcaption>Dahlias at Stocker Farms, Snohomish, Washington.</figcaption>
+    </figure>
+    <figure>
+    <img src="./images/photography/pike-place-1.jpg" alt="Pike Place Market">
+    <figcaption>Pike Place Market in Seattle, Washington.</figcaption>
+    </figure>
+    <figure>
+    <img src="./images/photography/santorini-sunset-1.jpg" alt="Santorini Sunset">
+    <figcaption>Sunset in Santorini, Greece.</figcaption>
+    </figure>
+<figure>
+    <img src="../images/photography/sam-slough-night-1.jpg" alt="Sammamish Slough at night">
+    <figcaption>Sammamish Slough at night, Washington.</figcaption>
+    </figure>
+<figure>
+    <img src="../images/photography/sno-falls-1.jpg" alt="Snoqualmie Falls">
+    <figcaption>Snoqualmie Falls, Snoqualmie, WA</figcaption>
+    </figure>
+<figure>
+    <img src="../images/photography/vancouver-sunset-1.jpg" alt="Vancouver Sunset">
+    <figcaption>Sunset over Vancouver, Canada.</figcaption>
+    </figure>
+<figure>
+    <img src="../images/photography/waikiki-fireworks-1.jpg" alt="Waikiki Fireworks">
+    <figcaption>Fireworks over Waikiki Beach, Honolulu, Hawaii.</figcaption>
+    </figure>
+</div>
 
+## Digital Art
 
+## Design
 
 ### **Connections**
 
-* **GitHub:** [github.com/yourhandle](https://github.com/yourhandle)
-* **LinkedIn:** [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
-* **Writing & Art:** \[yourportfolio.com or Substack/Medium]
-* **Email:** [your@email.com](mailto:your@email.com)
+* **GitHub:** [xgeoff](https://github.com/xgeoff)
+* **LinkedIn:** [geoff poremba](https://www.linkedin.com/in/geoffrey-poremba-1513211)
