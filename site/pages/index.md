@@ -143,7 +143,41 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
     </figure>
 </div>
 
-## Digital Art
+## Digital Art - AI Assisted
+<div class="gallery">
+  <figure>
+    <img src="./images/digital-art/eldar-storm-guardian-1.png" alt="Eldar Storm Guardian">
+    <figcaption>Eldar Storm Guardian from Craftworld Luminethra.</figcaption>
+  </figure>
+    <figure>
+        <img src="./images/digital-art/elerian-dragoon-droid-mount-1.png" alt="Elerian Dragoon Droid Mount">
+        <figcaption>Star Wars Droid Mount for an Elerian Dragoon. From Chronicles of the Old Republic</figcaption>
+</figure>
+    <figure>
+        <img src="./images/digital-art/elven-citadel-1.png" alt="Elven Citadel in Middle Earth">
+        <figcaption>High Elf citadel in Middle Earth, 2nd Age.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/digital-art/polish-hussar-aberdeen-bestiary.png" alt="Polish Hussar in the style of the Aberdeen Bestiary">
+        <figcaption>Polish Winged Hussar in the style of the Aberdeen Bestiary.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/digital-art/slavic-folklore-horse.png" alt="Slavic Folklore Horse">
+        <figcaption>Slavic Folklore horse.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/digital-art/slavic-folklore-tattoo-1.png" alt="Slavic folklore inspired gemini tattoo">
+        <figcaption>Slavic folklore inspired Gemini tattoo.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/digital-art/slavic-tree-of-life-1.png" alt="Slavic Tree of Life">
+        <figcaption>Slavic Tree of Life.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/digital-art/pom-tree-greek-folkart-1.png" alt="Greek folkart pomegranate tree">
+        <figcaption>Greek folkart pomegranate tree.</figcaption>
+    </figure>
+</div>
 
 ## Design
 
