@@ -6,31 +6,88 @@ title = "xgeoff personal website"
 ## **X Geoff**
 
 *Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
+
 I’m a software architect, developer, and technologist with over two decades of experience designing and guiding complex software systems. I’ve worked across industries and teams, solving challenging technical problems and shaping systems built to last. My focus has always been on making technology practical and scalable, and on creating environments where good ideas turn into real results.
+
 Beyond work, I love exploring the world through travel, food, and photography. I also feed my creative side through reading science fiction, writing, and using AI-assisted art to bring ideas to life.
+
 At heart, I’m a creator — whether it’s software, stories, or memories from time spent in new places.
 
 ### **Projects**
 
-* *Luminethra* – A mythic Warhammer 40k saga of fate, storms, and survival
-* *Chronicles of the Old Republic* – Sweeping Star Wars narratives of ambition, faith, 
-    and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
-    shaped the fate of the galaxy
-* *The Reach* – A surreal Americana ghost story about WRCH, a forgotten radio station
-* *ClearHealth* – A healthcare concept connecting patients, providers, and payers
-    with transparent, value-based care
-* *Arden* – A constructed language designed for clarity, expressiveness, and ease of use
-* *Grimoire* – A static site generator built as a Gradle plugin,
-    leveraging Handlebars and Groovy for flexible, scriptable content creation
-* *Glyph* - statically typed, WASM-first programming language that blends the clean syntax 
-    of Groovy and Kotlin with systems-level performance, compiling into a single efficient 
-    .wasm or JVM target for cloud, serverless, and edge computing
-* *TetraFamilia* - an interwoven saga of four lineages whose descendants, bound by memory 
-    and rivalry, navigate two millennia of shifting empires, faiths, and ideologies from 
-    antiquity to the Cold War
-* *The Moirad* - this prequel to the Iliad tells of how gods and mortals, bound by pride and 
-    desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the 
-    epic Homeric style
+<ul class="project-cards">
+
+  <li>
+    <div class="card">
+      <h3 class="title">Luminethra</h3>
+      <p class="desc">A mythic Warhammer 40k Eldar saga of fate, storms, and survival.</p>
+    </div>
+  </li>
+
+  <li>
+    <div class="card">
+      <h3 class="title">Chronicles of the Old Republic</h3>
+      <p class="desc">Sweeping Star Wars narratives of ambition, 
+      and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
+      shaped the fate of the galaxy.</p>
+    </div>
+  </li>
+
+  <li>
+    <div class="card">
+      <h3 class="title">The Reach</h3>
+      <p class="desc">A surreal Americana story about WRCH, a television station in the Pacific Northwest perched on the border of the spirit world</p>
+    </div>
+  </li>
+
+<li>
+    <a href="https://clearhealth.life" class="card">
+      <h3 class="title">ClearHealth</h3>
+      <p class="desc">A healthcare concept connecting patients, providers, and payers
+      with transparent, value-based care</p>
+    </a>
+  </li>
+
+<li>
+    <a href="https://xgeoff.github.io/arden" class="card">
+      <h3 class="title">Arden</h3>
+      <p class="desc">A constructed language designed for clarity, expressiveness, and ease of use</p>
+    </a>
+  </li>
+
+<li>
+    <a href="https://github.com/xgeoff/grimoire" class="card">
+      <h3 class="title">Grimoire</h3>
+      <p class="desc">A static site generator built as a Gradle plugin,
+      leveraging Groovy templates for flexible, scriptable content creation</p>
+    </a>
+  </li>
+
+<li>
+    <a href="https://github.com/xgeoff/glyph" class="card">
+      <h3 class="title">Glyph</h3>
+      <p class="desc">statically typed, WASM-first programming language that blends the clean syntax 
+      of Groovy and Kotlin with systems-level performance, compiling into a single efficient 
+      .wasm or JVM target for cloud, serverless, and edge computing.</p>
+    </a>
+  </li>
+
+<li>
+    <div class="card">
+      <h3 class="title">Tetrafamilia</h3>
+      <p class="desc">An interwoven saga of four lineages whose descendants, bound by memory 
+      and rivalry, navigate two millennia of shifting empires, faiths, and ideologies from 
+      antiquity to the Cold War.</p>
+    </div>
+  </li>
+
+<li>
+    <a href="https://xgeoff.github.io/moirad" class="card">
+      <h3 class="title">The Moirad</h3>
+      <p class="desc">This prequel to the Iliad tells of how gods and mortals, bound by pride and desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the epic Homeric style.</p>
+    </a>
+  </li>
+</ul>
 
 ### **Photography, Art and Design**
 
@@ -38,7 +95,7 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 <div class="gallery">
   <figure>
     <img src="./images/photography/acropolis-lindos-1.jpg" alt="Lindos Acropolis">
-    <figcaption>Lindos Acropolis with the Aegean in the background.</figcaption>
+    <figcaption>Lindos Acropolis with the Aegean in the background. Island of Rhodes in Greece</figcaption>
   </figure>
   <figure>
     <img src="./images/photography/aurora-1.jpg" alt="Aurora Borealis">
@@ -50,11 +107,11 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
   </figure>
   <figure>
     <img src="./images/photography/coffee-shop-bangkok-1.jpg" alt="Bangkok coffee shop">
-    <figcaption>Cozy coffee shop in Bangkok, Thailand.</figcaption>
+    <figcaption>Mother Roaster coffee shop in Bangkok, Thailand.</figcaption>
     </figure>
     <figure>
     <img src="./images/photography/corn-maze-sno.jpg" alt="Snohomish Corn Maze">
-    <figcaption>Corn maze in Snohomish, Washington.</figcaption>
+    <figcaption>Bob's Corn maze in Snohomish, Washington.</figcaption>
     </figure>
     <figure>
     <img src="./images/photography/dahlias-tacoma-1.jpg" alt="Tacoma Dahlias">
@@ -66,11 +123,11 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
     </figure>
     <figure>
     <img src="./images/photography/santorini-sunset-1.jpg" alt="Santorini Sunset">
-    <figcaption>Sunset in Santorini, Greece.</figcaption>
+    <figcaption>Sunset over the caldera in Santorini, Greece.</figcaption>
     </figure>
 <figure>
     <img src="./images/photography/sam-slough-night-1.jpg" alt="Sammamish Slough at night">
-    <figcaption>Sammamish Slough at night, Washington.</figcaption>
+    <figcaption>Sammamish Slough at night, Bothell, Washington.</figcaption>
     </figure>
 <figure>
     <img src="./images/photography/sno-falls-1.jpg" alt="Snoqualmie Falls">
