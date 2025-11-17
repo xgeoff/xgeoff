@@ -11,7 +11,7 @@ I’m a software architect, developer, and technologist with over two decades of
 
 Beyond work, I love exploring the world through travel, food, and photography. I also feed my creative side through reading science fiction, writing, and using AI-assisted art to bring ideas to life.
 
-At heart, I’m a creator — whether it’s software, stories, or memories from time spent in new places.
+At heart, I’m a creator — whether it’s software, stories, or visions from my imagination.
 
 ### **Projects**
 
