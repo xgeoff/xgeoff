@@ -19,14 +19,14 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 
   <li>
     <div class="card">
-      <h3 class="title">Luminethra</h3>
+      <h3 class="title">Luminethra [In Progress]</h3>
       <p class="desc">A mythic Warhammer 40k Eldar saga of fate, storms, and survival.</p>
     </div>
   </li>
 
   <li>
     <div class="card">
-      <h3 class="title">Chronicles of the Old Republic</h3>
+      <h3 class="title">Chronicles of the Old Republic [In Progress]</h3>
       <p class="desc">Sweeping Star Wars narratives of ambition, 
       and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
       shaped the fate of the galaxy.</p>
@@ -35,7 +35,7 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 
   <li>
     <div class="card">
-      <h3 class="title">The Reach</h3>
+      <h3 class="title">The Reach [In Progress]</h3>
       <p class="desc">A surreal Americana story about WRCH, a television station in the Pacific Northwest perched on the border of the spirit world</p>
     </div>
   </li>
@@ -65,7 +65,7 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 
 <li>
     <a href="https://github.com/xgeoff/glyph" class="card">
-      <h3 class="title">Glyph</h3>
+      <h3 class="title">Glyph [In Progress]</h3>
       <p class="desc">statically typed, WASM-first programming language that blends the clean syntax 
       of Groovy and Kotlin with systems-level performance, compiling into a single efficient 
       .wasm or JVM target for cloud, serverless, and edge computing.</p>
@@ -74,7 +74,7 @@ At heart, I’m a creator — whether it’s software, stories, or memories from
 
 <li>
     <div class="card">
-      <h3 class="title">Tetrafamilia</h3>
+      <h3 class="title">Tetrafamilia [In Progress]</h3>
       <p class="desc">An interwoven saga of four lineages whose descendants, bound by memory 
       and rivalry, navigate two millennia of shifting empires, faiths, and ideologies from 
       antiquity to the Cold War.</p>
