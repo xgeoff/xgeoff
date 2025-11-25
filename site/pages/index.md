@@ -151,7 +151,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </figure>
     <figure>
         <img src="./images/digital-art/elerian-dragoon-droid-mount-1.png" alt="Elerian Dragoon Droid Mount">
-        <figcaption>Droid Mount for an Elerian Dragoon. From Chronicles of the Old Republic, Star Wars universe.</figcaption>
+        <figcaption>Droid Mount for an Elyrian Dragoon. From Chronicles of the Old Republic, Star Wars universe.</figcaption>
 </figure>
     <figure>
         <img src="./images/digital-art/elven-citadel-1.png" alt="Elven Citadel in Middle Earth">
@@ -163,11 +163,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
     </figure>
 <figure>
         <img src="./images/digital-art/slavic-folklore-horse.png" alt="Slavic Folklore Horse">
-        <figcaption>Slavic Folklore horse.</figcaption>
-    </figure>
-<figure>
-        <img src="./images/digital-art/slavic-folklore-tattoo-1.png" alt="Slavic folklore inspired gemini tattoo">
-        <figcaption>Slavic folklore inspired Gemini tattoo.</figcaption>
+        <figcaption>Slavic folklore inspired horse.</figcaption>
     </figure>
 <figure>
         <img src="./images/digital-art/slavic-tree-of-life-1.png" alt="Slavic Tree of Life">
@@ -180,6 +176,48 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
 </div>
 
 ## Design
+<div class="gallery">
+<figure>
+        <img src="./images/design/auto-symbol-1.png" alt="Symbol for a new Automotive Brand">
+        <figcaption>Symbol for a new automotive brand.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/convertible-car-concept-1.png" alt="Convertible car concept">
+        <figcaption>Convertible car concept.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/slavic-folklore-tattoo-1.png" alt="Slavic folklore inspired gemini tattoo">
+        <figcaption>Slavic folklore inspired Gemini tattoo.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/art-nouveau-coffee-shop.png" alt="Art Nouveau coffee shop interior design">
+        <figcaption>Art Nouveau coffee shop interior.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/urban-townhouse-1.png" alt="Urban townhouse design concept">
+        <figcaption>Urban townhouse design concept.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/paine-field-terminal-1.png" alt="Paine Field Terminal design">
+        <figcaption>Paine Field exterior terminal concept. Everett, Washington.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/paine-field-interior-1.png" alt="Paine Field interior design concept">
+        <figcaption>Paine Field interior terminal concept. Everett, Washington.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/paine-field-interior-2.png" alt="Paine Field interior design concept">
+        <figcaption>Paine Field interior terminal concept. Everett, Washington.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/greek-hotel-room-1.png" alt="Greek resort hotel room design concept">
+        <figcaption>Greek resort hotel room design concept.</figcaption>
+    </figure>
+<figure>
+        <img src="./images/design/bathroom-greek-hotel-1.png" alt="Greek resort hotel bathroom design concept">
+        <figcaption>Greek resort hotel bathroom design concept.</figcaption>
+    </figure>
+</div>
 
 ### **Connections**
 
