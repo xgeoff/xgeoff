@@ -32,5 +32,16 @@
 <main class="container prose">
 ${content}
 </main>
+<!-- Lightbox overlay (hidden until opened) -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+  <img alt="" />
+  <div class="lb-caption" aria-live="polite"></div>
+</div>
+<!-- Lightbox overlay (hidden until opened) -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+  <img alt="" />
+  <div class="lb-caption" aria-live="polite"></div>
+</div>
 </body>
+<script src="js/lightbox.js"></script>
 </html>
