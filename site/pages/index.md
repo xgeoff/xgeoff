@@ -175,7 +175,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
     </figure>
 </div>
 
-## Design
+## Design - AI Assisted
 <div class="gallery">
 <figure>
         <img src="./images/design/auto-symbol-1.png" alt="Symbol for a new Automotive Brand">
