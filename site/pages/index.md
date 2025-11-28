@@ -5,7 +5,7 @@ title = "xgeoff personal website"
 ![XGeoff Logo](./images/xgeoff.png)
 ## **X Geoff**
 
-*Technologist, Software Architect, World Traveller and Sci-Fi Enthusiast*
+*Technologist, Software Architect, World Traveller, and Sci-Fi Enthusiast*
 
 I’m a software architect, developer, and technologist with over two decades of experience designing and guiding complex software systems. I’ve worked across industries and teams, solving challenging technical problems and shaping systems built to last. My focus has always been on making technology practical and scalable, and on creating environments where good ideas turn into real results.
 
@@ -13,7 +13,7 @@ Beyond work, I love exploring the world through travel, food, and photography. I
 
 At heart, I’m a creator — whether it’s software, stories, or visions from my imagination.
 
-### **Projects**
+### **My Projects**
 
 <ul class="project-cards">
 
