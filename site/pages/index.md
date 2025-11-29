@@ -27,7 +27,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   <li>
     <div class="card">
       <h3 class="title">Chronicles of the Old Republic { In Progress }</h3>
-      <p class="desc">Sweeping Star Wars narratives of ambition, 
+      <p class="desc">Sweeping Star Wars narratives of ambition 
       and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
       shaped the fate of the galaxy.</p>
     </div>
