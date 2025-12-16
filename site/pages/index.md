@@ -87,6 +87,13 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
       <p class="desc">This prequel to the Iliad tells of how gods and mortals, bound by pride and desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the epic Homeric style.</p>
     </a>
   </li>
+
+<li>
+    <a href="https://xgeoff.github.io/atomica" class="card">
+      <h3 class="title">Atomica</h3>
+      <p class="desc">Atomica is a tiny signals-driven view library with fine-grained DOM bindings</p>
+    </a>
+  </li>
 </ul>
 
 ### **Photography, Art and Design**
