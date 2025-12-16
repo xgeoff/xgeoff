@@ -16,45 +16,12 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
 ### **My Projects**
 
 <ul class="project-cards">
-
-  <li>
-    <div class="card">
-      <h3 class="title">Luminethra { In Progress }</h3>
-      <p class="desc">A mythic Warhammer 40k Eldar saga of fate, storms, and survival.</p>
-    </div>
-  </li>
-
-  <li>
-    <div class="card">
-      <h3 class="title">Chronicles of the Old Republic { In Progress }</h3>
-      <p class="desc">Sweeping Star Wars narratives of ambition 
-      and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
-      shaped the fate of the galaxy.</p>
-    </div>
-  </li>
-
-  <li>
-    <div class="card">
-      <h3 class="title">The Reach { In Progress }</h3>
-      <p class="desc">A surreal Americana story about WRCH, a television station in the Pacific Northwest perched on the border of the spirit world</p>
-    </div>
-  </li>
-
-<li>
-    <a href="https://clearhealth.life" class="card">
-      <h3 class="title">ClearHealth</h3>
-      <p class="desc">A healthcare concept connecting patients, providers, and payers
-      with transparent, value-based care</p>
-    </a>
-  </li>
-
 <li>
     <a href="https://xgeoff.github.io/arden" class="card">
       <h3 class="title">Arden</h3>
-      <p class="desc">A constructed language designed for clarity, expressiveness, and ease of use</p>
+      <p class="desc">A constructed spoken language designed for clarity, expressiveness, and ease of use</p>
     </a>
   </li>
-
 <li>
     <a href="https://github.com/xgeoff/grimoire" class="card">
       <h3 class="title">Grimoire</h3>
@@ -62,7 +29,19 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
       leveraging Groovy templates for flexible, scriptable content creation</p>
     </a>
   </li>
-
+<li>
+    <a href="https://clearhealth.life" class="card">
+      <h3 class="title">ClearHealth</h3>
+      <p class="desc">A healthcare concept connecting patients, providers, and payers
+      with transparent, value-based care</p>
+    </a>
+  </li>
+<li>
+    <a href="https://xgeoff.github.io/atomica" class="card">
+      <h3 class="title">Atomica</h3>
+      <p class="desc">Atomica is a tiny signals-driven view library with fine-grained DOM bindings</p>
+    </a>
+  </li>
 <li>
     <a href="https://github.com/xgeoff/glyph" class="card">
       <h3 class="title">Glyph { In Progress }</h3>
@@ -71,7 +50,26 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
       .wasm or JVM target for cloud, serverless, and edge computing.</p>
     </a>
   </li>
-
+<li>
+    <a href="https://xgeoff.github.io/moirad/moirad.html" class="card">
+      <h3 class="title">The Moirad</h3>
+      <p class="desc">This prequel to the Iliad tells of how gods and mortals, bound by pride and desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the epic Homeric style.</p>
+    </a>
+  </li>
+  <li>
+    <div class="card">
+      <h3 class="title">Luminethra { In Progress }</h3>
+      <p class="desc">A mythic Warhammer 40k Eldar saga of fate, storms, and survival.</p>
+    </div>
+  </li>
+  <li>
+    <div class="card">
+      <h3 class="title">Chronicles of the Old Republic { In Progress }</h3>
+      <p class="desc">Sweeping Star Wars narratives of ambition 
+      and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
+      shaped the fate of the galaxy.</p>
+    </div>
+  </li>
 <li>
     <div class="card">
       <h3 class="title">Tetrafamilia { In Progress }</h3>
@@ -80,19 +78,11 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
       antiquity to the Cold War.</p>
     </div>
   </li>
-
-<li>
-    <a href="https://xgeoff.github.io/moirad/moirad.html" class="card">
-      <h3 class="title">The Moirad</h3>
-      <p class="desc">This prequel to the Iliad tells of how gods and mortals, bound by pride and desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the epic Homeric style.</p>
-    </a>
-  </li>
-
-<li>
-    <a href="https://xgeoff.github.io/atomica" class="card">
-      <h3 class="title">Atomica</h3>
-      <p class="desc">Atomica is a tiny signals-driven view library with fine-grained DOM bindings</p>
-    </a>
+  <li>
+    <div class="card">
+      <h3 class="title">The Reach { In Progress }</h3>
+      <p class="desc">A surreal Americana story about WRCH, a television station in the Pacific Northwest perched on the border of the spirit world</p>
+    </div>
   </li>
 </ul>
 
