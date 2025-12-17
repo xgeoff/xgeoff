@@ -152,7 +152,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
 </figure>
     <figure>
         <img src="./images/digital-art/elven-citadel-1.png" alt="Elven Citadel in Middle Earth">
-        <figcaption>High Elf citadel in Middle Earth, 2nd Age.</figcaption>
+        <figcaption>High Elf citadel in Middle Earth, 2nd Age. JRR Tolkien's Lord of the Rings universe.</figcaption>
     </figure>
 <figure>
         <img src="./images/digital-art/polish-hussar-aberdeen-bestiary.png" alt="Polish Hussar in the style of the Aberdeen Bestiary">
@@ -164,7 +164,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
     </figure>
 <figure>
         <img src="./images/digital-art/slavic-tree-of-life-1.png" alt="Slavic Tree of Life">
-        <figcaption>Slavic Tree of Life.</figcaption>
+        <figcaption>Slavic folkart Tree of Life.</figcaption>
     </figure>
 <figure>
         <img src="./images/digital-art/pom-tree-greek-folkart-1.png" alt="Greek folkart pomegranate tree">
