@@ -1,4 +1,5 @@
-title = "Jefe"
+title = "Atomic Jefe's Pages"
 baseUrl = "/"
 outputDir = "docs"
 sourceDir = "site"
+author = "xgeoff"

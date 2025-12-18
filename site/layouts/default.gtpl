@@ -4,9 +4,9 @@
     <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title>{{title}}</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>${title}</title>
+    <meta name="description" content="${title}">
+    <meta name="author" content="${author}">
 
     <!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
