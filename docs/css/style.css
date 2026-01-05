@@ -135,6 +135,13 @@
   letter-spacing: -0.01em;
 }
 
+.project-cards .project-icon {
+  width: 48px;
+  height: 48px;
+  margin: 0 0 0.65rem;
+  object-fit: contain;
+}
+
 .project-cards .desc {
   margin: 0;
   color: #555;

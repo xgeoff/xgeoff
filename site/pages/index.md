@@ -18,12 +18,14 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
 <ul class="project-cards">
 <li>
     <a href="https://xgeoff.github.io/arden" class="card">
+      <img class="project-icon" src="./images/arden.png" alt="Project icon">
       <h3 class="title">Arden</h3>
       <p class="desc">A constructed spoken language designed for clarity, expressiveness, and ease of use</p>
     </a>
   </li>
 <li>
     <a href="https://github.com/xgeoff/grimoire" class="card">
+      <img class="project-icon" src="./images/grimoire.png" alt="Project icon">
       <h3 class="title">Grimoire</h3>
       <p class="desc">A static site generator built as a Gradle plugin,
       leveraging Groovy templates for flexible, scriptable content creation</p>
@@ -31,6 +33,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </li>
 <li>
     <a href="https://clearhealth.life" class="card">
+      <img class="project-icon" src="./images/clearhealth.png" alt="Project icon">
       <h3 class="title">ClearHealth</h3>
       <p class="desc">A healthcare concept connecting patients, providers, and payers
       with transparent, value-based care</p>
@@ -38,12 +41,14 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </li>
 <li>
     <a href="https://xgeoff.github.io/atomica" class="card">
+      <img class="project-icon" src="./images/atomica.png" alt="Project icon">
       <h3 class="title">Atomica</h3>
       <p class="desc">Atomica is a tiny signals-driven view library with fine-grained DOM bindings</p>
     </a>
   </li>
 <li>
     <a href="https://github.com/xgeoff/glyph" class="card">
+      <img class="project-icon" src="./images/glyph.png" alt="Project icon">
       <h3 class="title">Glyph { In Progress }</h3>
       <p class="desc">statically typed, WASM-first programming language that blends the clean syntax 
       of Groovy and Kotlin with systems-level performance, compiling into a single efficient 
@@ -52,18 +57,21 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </li>
 <li>
     <a href="https://xgeoff.github.io/moirad/moirad.html" class="card">
+      <img class="project-icon" src="./images/moirad.png" alt="Project icon">
       <h3 class="title">The Moirad</h3>
       <p class="desc">This prequel to the Iliad tells of how gods and mortals, bound by pride and desire, set in motion the fated war that would bring mighty Troy to ruin. Told in the epic Homeric style.</p>
     </a>
   </li>
   <li>
     <div class="card">
+      <img class="project-icon" src="./images/luminethra.png" alt="Project icon">
       <h3 class="title">Luminethra { In Progress }</h3>
       <p class="desc">A mythic Warhammer 40k Eldar saga of fate, storms, and survival.</p>
     </div>
   </li>
   <li>
     <div class="card">
+      <img class="project-icon" src="./images/chronicles.png" alt="Project icon">
       <h3 class="title">Chronicles of the Old Republic { In Progress }</h3>
       <p class="desc">Sweeping Star Wars narratives of ambition 
       and war in the dawn age of the Galactic Republic, when Jedi, Sith, and empires first 
@@ -72,6 +80,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </li>
 <li>
     <div class="card">
+      <img class="project-icon" src="./images/tetra.png" alt="Project icon">
       <h3 class="title">Tetrafamilia { In Progress }</h3>
       <p class="desc">An interwoven saga of four lineages whose descendants, bound by memory 
       and rivalry, navigate two millennia of shifting empires, faiths, and ideologies from 
@@ -80,6 +89,7 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
   </li>
   <li>
     <div class="card">
+      <img class="project-icon" src="./images/reach.png" alt="Project icon">
       <h3 class="title">The Reach { In Progress }</h3>
       <p class="desc">A surreal Americana story about WRCH, a television station in the Pacific Northwest perched on the border of the spirit world</p>
     </div>
