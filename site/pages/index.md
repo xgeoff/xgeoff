@@ -47,6 +47,13 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
     </a>
   </li>
 <li>
+    <a href="https://github.com/xgeoff/forerunner" class="card">
+      <img class="project-icon" src="./images/forerunner.png" alt="Project icon">
+      <h3 class="title">Forerunner</h3>
+      <p class="desc">Forerunner is a lightweight, embeddable workflow and rule engine for the JVM that enables deterministic, context-driven decision flows</p>
+    </a>
+  </li>
+<li>
     <a href="https://github.com/xgeoff/glyph" class="card">
       <img class="project-icon" src="./images/glyph.png" alt="Project icon">
       <h3 class="title">Glyph { In Progress }</h3>
