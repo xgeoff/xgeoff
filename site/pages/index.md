@@ -47,10 +47,25 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
     </a>
   </li>
 <li>
-    <a href="https://github.com/xgeoff/forerunner" class="card">
+    <a href="https://xgeoff.github.io/forerunner" class="card">
       <img class="project-icon" src="./images/forerunner.png" alt="Project icon">
       <h3 class="title">Forerunner</h3>
       <p class="desc">Forerunner is a lightweight, embeddable workflow and rule engine for the JVM that enables deterministic, context-driven decision flows</p>
+    </a>
+  </li>
+<li>
+    <a href="https://xgeoff.github.io/nexum" class="card">
+      <img class="project-icon" src="./images/nexum.png" alt="Project icon">
+      <h3 class="title">Nexum</h3>
+      <p class="desc">A lightweight, modular database platform that unifies relational, graph, object, and vector models behind a clean, extensible query architecture.</p>
+    </a>
+  </li>
+<li>
+    <a href="https://xgeoff.github.io/light-queue-exchange" class="card">
+      <img class="project-icon" src="./images/lqx.png" alt="Project icon">
+      <h3 class="title">LQX</h3>
+      <p class="desc">LQX is a lightweight local event exchange that simulates broker-style streams, consumer groups, polling, SSE, retention, and pluggable persistence for development
+  and integration testing.</p>
     </a>
   </li>
 <li>
@@ -60,6 +75,13 @@ At heart, I’m a creator — whether it’s software, stories, or visions from 
       <p class="desc">statically typed, WASM-first programming language that blends the clean syntax 
       of Groovy and Kotlin with systems-level performance, compiling into a single efficient 
       .wasm or JVM target for cloud, serverless, and edge computing.</p>
+    </a>
+  </li>
+<li>
+    <a href="https://xgeoff.github.io/aurex" class="card">
+      <img class="project-icon" src="./images/design/auto-symbol-1.png" alt="Project icon">
+      <h3 class="title">Aurex</h3>
+      <p class="desc">Aurex is a modern automotive platform exploring hybrid and electric drivetrains through clean design, balanced performance, and software-defined driving systems.</p>
     </a>
   </li>
 <li>
